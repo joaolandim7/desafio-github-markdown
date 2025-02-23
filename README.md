@@ -4,7 +4,6 @@
 
 **Aqui está o resumo do que eu fiz nessa atividade**
 
-Aqui está o resumo no formato que você pediu:  
 
  - Adicionei um colaborador ao meu repositório no GitHub.  
  - Clonei o repositório para minha máquina local usando `git clone <URL>`.  
